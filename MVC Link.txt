@@ -1,0 +1,3 @@
+http://chsakell.com/2015/02/15/asp-net-mvc-solution-architecture-best-practices/
+
+https://github.com/chsakell/mvcarchitecture
