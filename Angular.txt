@@ -1,0 +1,6 @@
+http://chsakell.com/2015/02/15/asp-net-mvc-solution-architecture-best-practices/
+
+https://github.com/chsakell/mvcarchitecture
+
+
+https://chsakell.com/2016/01/01/cross-platform-single-page-applications-with-asp-net-5-angular-2-typescript/
